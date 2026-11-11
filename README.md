@@ -173,4 +173,3 @@ git push origin main
 | **Sofía** | Sección de gramática — reglas, niveles y correcciones |
 | **Inés** | Vocabulario y writing — actividades y guías de escritura |
 
-Contacto: [sofia.melero@humanitastorrejon.onmicrosoft.com](mailto:sofia.melero@humanitastorrejon.onmicrosoft.com)
